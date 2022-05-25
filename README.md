@@ -1,6 +1,6 @@
 # Covinoc
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+This project id for COVINOC, link of test [covinoc](https://cmontesvergara.github.io/covinoc/)
 
 ## Development server
 
